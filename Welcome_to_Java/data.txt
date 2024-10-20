@@ -1,0 +1,7 @@
+Ethan CSC 4.0
+Gilbert CSC 4.0
+John BUS 3.75
+Mary MTH 3.8
+Caroline CSC 3.2
+Jerry PHI 2.0
+Tom ENG 3.3
